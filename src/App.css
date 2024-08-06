@@ -1,0 +1,25 @@
+.text {
+  border: 2px solid black;
+  padding: 20px;
+  width: fit-content;
+}
+.box {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: transparent;
+}
+.result {
+  position: relative;
+  margin-left: 360px;
+  bottom: 78px;
+  font-size: 30px;
+}
+
+.line {
+  border: 1px solid black;
+  width: 25%;
+  margin-left: 0px;
+}
+.curr{
+  margin: 0 4px;
+}
